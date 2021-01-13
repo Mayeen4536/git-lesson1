@@ -1,1 +1,3 @@
 I am using VS code. This is the first file I made.
+
+A little addition for simple experiment with git
